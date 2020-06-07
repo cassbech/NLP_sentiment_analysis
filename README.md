@@ -2,7 +2,8 @@
 automate emotional tweet analysis with NLP machine learning
 
 This project, made for a data science consulting company, aims to automate the analysis of tweets for a brand with 3 differents levels : 
->positive tweet, neutral tweet or negative tweet. Several algorithms have been executed to find the best model.
+positive tweet, neutral tweet or negative tweet.
+Several algorithms have been executed to find the best model.
 
 It is built in 3 different parts : 
 - scrap tweets from twitter (Tweepy / twitter's API)
